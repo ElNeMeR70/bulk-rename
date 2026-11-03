@@ -1,0 +1,32 @@
+{
+  "name": "@elnemer70/bulk-rename",
+  "version": "1.0.0",
+  "description": "Batch rename files with regex patterns and safe dry-run mode",
+  "bin": {
+    "bulk-rename": "index.js"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/smoke.js"
+  },
+  "keywords": [
+    "cli",
+    "developer-tools",
+    "rename",
+    "files",
+    "regex"
+  ],
+  "author": "ElNeMeR70",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElNeMeR70/bulk-rename.git"
+  },
+  "homepage": "https://github.com/ElNeMeR70/bulk-rename#readme",
+  "bugs": {
+    "url": "https://github.com/ElNeMeR70/bulk-rename/issues"
+  }
+}
